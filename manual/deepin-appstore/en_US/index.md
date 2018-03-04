@@ -77,24 +77,24 @@ The main interface of Deepin Store consists of navigation bar, search box, flash
  </table>
 
 ## Application Management
-You can search, download and install different categories of applications by Deepin Store. Meanwhile, more wonderful applications will be explored through popular recommendation, rankings, hot apps, hot topic, user comment and other ways.
+You can search, download and install different categories of applications by Deepin Store. Meanwhile, new apps can be discovered by recommendation, rankings, hot apps, hot topics, user comments and more.
 
 ### Search Applications
-Search function is built in Deepin Store. Contents will be automatically completed after you input a keyword. Press ![Enter](icon/Enter.svg) on keyboard to automatically search and display all applications contained that keyword.
+A search function is built into the Deepin Store. Content will automatically be displayed after typing a key word. Press ![Enter](icon/Enter.svg) on your keyboard to automatically search and display all applications containing that keyword.
 
 #### Automatch
 
-1. On Deepin Store interface, click top search box.
+1. On the Deepin Store interface, click the search box at the top of the screen.
 2. Input a keyword.
-3. The application name will be automatically matched and completed to display.
+3. The application name will be automatically matched and shown on display.
 
 ![1|automatch](jpg/automatch.png)
 
 #### Universal Search
 
-1. On Deepin Store interface, click top search box.
+1. On the Deepin Store interface, click the search box at the top of the screen..
 2. Input a keyword.
-3. Press ![Enter](icon/Enter.svg) on keyboard to automatically search and display all applications contained that keyword.
+3. Press ![Enter](icon/Enter.svg) on keyboard to automatically search and display all applications containing that keyword.
 
 ![1|searchresult](jpg/searchresult.jpg)
 
@@ -107,10 +107,10 @@ Search function is built in Deepin Store. Contents will be automatically complet
 ### Download/Install Applications
 Deepin Store offers one-click download and installation of applications. During the downloading and installing process, you can pause and delete, as well as view the current progress and speed.
 
-1. On Deepin Store interface, click the image of application needed to download.
-2. Enter the interface of detailed introduction.
-3. Click on ![Install](icon/installfordetail.svg) to automatically download in task management, and then install.
-4. You can view the download speed, progress and installing speed of the application.
+1. On Deepin Store interface, click on the application you want to to download.
+2. Enter the application info interface.
+3. Click on ![Install](icon/installfordetail.svg) to automatically download, and then install.
+4. You can view the download speed, progress and installation speed of the application.
 
 > ![tips](icon/tips.svg): You can directly hover mouse over the application icon, then click on ![Install](icon/installforpic.svg).
 
@@ -129,7 +129,7 @@ If you need to uninstall applications, you can enter Launcher to uninstall, spec
 ## Application Interface
 
 ### Application Details
-You can enter the interface of application details to know the introduction, size, version, downloads, ratings and so on.
+You can view the application detail interface to know the details, size, version, downloads, and ratings of the application.
 
 ![1|softwareinterface](jpg/softwareinterface.jpg)
 
@@ -164,7 +164,7 @@ You can enter the interface of application details to know the introduction, siz
  </table>
 
 ### Comment and Rate
-You can comment on and rate applications only after signed in Deepin Store, or only can view comments and ratings. The comments and ratings will be displayed successfully after both submitted at the same time. Meanwhile, you only can comment one time on the current version.
+You can comment on and rate applications after signing into the Deepin Store, or you can just view comments and ratings. The comments and ratings will be displayed immediately after posting. You can only comment one time on each application version.
 
 > ![attention](icon/attention.svg): If you need to know the information of signing up and signing in, please refer to [Sign In](#Sign In).
 
