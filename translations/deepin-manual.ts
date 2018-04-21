@@ -10,7 +10,7 @@
     </message>
     <message>
         <location filename="../src/app/dman.cpp" line="46"/>
-        <source>Deepin Manual is designed to help users learn deepin and Deepin applications, providing specific instructions and function descriptions.</source>
+        <source>Deepin Manual is designed to help users learn about deepin and Deepin applications, providing specific instructions and function descriptions.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -30,7 +30,7 @@
     </message>
     <message>
         <location filename="../src/view/i18n_proxy.cpp" line="35"/>
-        <source>Sorry, there are no search results of &quot;%1&quot;</source>
+        <source>Sorry, we couldn't find &quot;%1&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
